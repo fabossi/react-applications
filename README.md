@@ -14,7 +14,7 @@ A ideia do projeto é criar um aplicativo semelhante ao do Twitter, usando a sta
 
 ## Backend
 
-Para executar o backend siga as instruções do arquivo [README.md]() que está na pasta backend.
+Para executar o backend siga as instruções do arquivo [README.md](https://github.com/fabossi/react-applications/blob/master/README.md) que está na pasta backend.
 
 <p align="center">
   <img src="./.github/backend.png" />
@@ -22,7 +22,7 @@ Para executar o backend siga as instruções do arquivo [README.md]() que está 
 
 ## Frontend
 
-Para executar o frontend siga as instruções do arquivo [README.md]() que está na pasta frontend.
+Para executar o frontend siga as instruções do arquivo [README.md](https://github.com/fabossi/react-applications/blob/master/README.md) que está na pasta frontend.
 
 <p align="center">
   <img src="./.github/frontend.png" />
@@ -30,7 +30,7 @@ Para executar o frontend siga as instruções do arquivo [README.md]() que está
 
 ## Mobile
 
-Para executar o mobile siga as instruções do arquivo [README.md]() que está na pasta mobile.
+Para executar o mobile siga as instruções do arquivo [README.md](https://github.com/fabossi/react-applications/blob/master/README.md) que está na pasta mobile.
 
 <p align="center">
   <img src="./.github/rn01.jpg" width="250" />
